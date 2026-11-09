@@ -31,18 +31,19 @@ Beginner-friendly Python implementation.
 Step 1: Clone the repository
 git clone https://github.com/RKFutureTech/Scholarship-Eligibility-Checker.git
 
+### Step 2: Navigate to the Project Folder
 
+```bash
+cd Scholarship-Eligibility-Checker
+```
 
-Step 2: Navigate to the project folder
+### Step 3: Run the Python Program
 
-
-cd scholarship-eligibility-test
-
-
-Step 3: Run the Python program
-
-
+```bash
 python scholarship.py
+```
+
+
 
 📂 Project Structure
 
