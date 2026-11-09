@@ -74,10 +74,11 @@ How to use conditional statements for decision-making.
 How to apply logical operators.
 How to develop a simple real-world application using Python.
 
-Output:
-## Project Output
+Project Output :
 
-![Scholarship Eligibility Checker Output](Screenshot 2026-11-09 105150.png)[Output 2](Screenshot 2026-11-09 105614.png)
+![Scholarship Eligibility Checker Output](Screenshot%202026-11-09%20105150.png)
+
+![Scholarship Eligibility Checker Output](Screenshot%202026-11-09%20105614.png)
 
 
 
