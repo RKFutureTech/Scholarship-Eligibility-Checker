@@ -75,6 +75,9 @@ How to apply logical operators.
 How to develop a simple real-world application using Python.
 
 Output:
+## Project Output
+
+![Scholarship Eligibility Checker Output](output.png)
 
 
 
@@ -88,9 +91,14 @@ Store student records in a database.
 Generate scholarship eligibility reports.
 👨‍💻 Author
 
-Your Name
+Your Name : 
+Radhakrishna Pal
 
-Contributors:
-   
+Contributors: 
+Ayan Roy , 
+Kartik Kuila , 
+Sudipa Parui ,
+Rupam Lakra
+ 
 
 ⭐ If you find this project useful, don't forget to give it a star!
